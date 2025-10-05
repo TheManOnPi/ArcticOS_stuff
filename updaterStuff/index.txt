@@ -1,1 +1,1 @@
-["DJF-on-arm|0.1|","Offical|0.1.1.1|"]
+["DJF-on-arm|0.1.1|https://github.com/TheManOnPi/ArcticOS_updaterStuff/blob/main/updaterStuff/arc%20-%20modified%20by%20DJF-on-arm.pmp","Offical|0.1.1.1|"]
